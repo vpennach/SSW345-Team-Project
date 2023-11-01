@@ -5,6 +5,6 @@ Authors:
 
 Vincent Pennachio - vpennach
 
-Lauren Kibalo -
+Lauren Kibalo - Lauren130
 
 Ryan Hajtovik -
